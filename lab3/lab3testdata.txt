@@ -1,0 +1,6 @@
+Name	Expected
+O	1
+outofhere	2
+abcedfghijklmno	0
+abcedo	1
+x	0

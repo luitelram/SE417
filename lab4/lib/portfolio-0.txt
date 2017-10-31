@@ -1,0 +1,4 @@
+Symbol	Quantity
+Stock03	1200
+Stock24	200
+Stock02	104

@@ -1,0 +1,11 @@
+Name	Expected
+oo	2
+o	1
+ssss	0
+abcdefghiklik	0
+Oo	2
+ooo	3
+OO	2
+fo ood	3
+abcdefghjiklijuo	1
+!345;'0	0	

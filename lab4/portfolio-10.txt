@@ -1,0 +1,11 @@
+Symbol	Quantity
+Stock01	3300
+Stock02	1600
+Stock03	1800
+Stock04	1600
+Stock05	2000
+Stock06	1100
+Stock07	1600
+Stock08	4000
+Stock09	1900
+Stock10	2000

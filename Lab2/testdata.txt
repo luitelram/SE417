@@ -1,0 +1,3 @@
+cols1	cols2	cols3
+“”	“\t”	12cc
+mop	char	BoOk
